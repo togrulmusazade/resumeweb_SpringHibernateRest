@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.company:ResumeDbAppJPASpring:0.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/company/ResumeDbAppJPASpring/0.0.1/ResumeDbAppJPASpring-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/company/ResumeDbAppJPASpring/0.0.1/ResumeDbAppJPASpring-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/company/ResumeDbAppJPASpring/0.0.1/ResumeDbAppJPASpring-0.0.1-sources.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/com/company/ResumeDbAppJPASpring" />
+    </SOURCES>
+  </library>
+</component>
